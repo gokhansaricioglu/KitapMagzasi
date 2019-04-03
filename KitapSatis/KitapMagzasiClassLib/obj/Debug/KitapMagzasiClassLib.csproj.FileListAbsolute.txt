@@ -1,0 +1,12 @@
+C:\Users\zuzu\source\repos\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.csprojAssemblyReference.cache
+C:\Users\zuzu\source\repos\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.csproj.CoreCompileInputs.cache
+C:\Users\zuzu\source\repos\KitapMagzasi\KitapMagzasiClassLib\bin\Debug\KitapMagzasiClassLib.dll
+C:\Users\zuzu\source\repos\KitapMagzasi\KitapMagzasiClassLib\bin\Debug\KitapMagzasiClassLib.pdb
+C:\Users\zuzu\source\repos\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.dll
+C:\Users\zuzu\source\repos\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.pdb
+E:\OGLENCI\KitapMagzasi\KitapMagzasiClassLib\bin\Debug\KitapMagzasiClassLib.dll
+E:\OGLENCI\KitapMagzasi\KitapMagzasiClassLib\bin\Debug\KitapMagzasiClassLib.pdb
+E:\OGLENCI\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.csprojAssemblyReference.cache
+E:\OGLENCI\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.csproj.CoreCompileInputs.cache
+E:\OGLENCI\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.dll
+E:\OGLENCI\KitapMagzasi\KitapMagzasiClassLib\obj\Debug\KitapMagzasiClassLib.pdb

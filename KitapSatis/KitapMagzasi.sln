@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapMagzasiClassLib", "KitapMagzasiClassLib\KitapMagzasiClassLib.csproj", "{71E23446-9F90-402F-828C-E88CD3082355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapMagazasi", "KitapMagazasi\KitapMagazasi.csproj", "{4F0656CB-3A65-45C0-9C11-8B4A8E8F6A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E23446-9F90-402F-828C-E88CD3082355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E23446-9F90-402F-828C-E88CD3082355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E23446-9F90-402F-828C-E88CD3082355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E23446-9F90-402F-828C-E88CD3082355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0656CB-3A65-45C0-9C11-8B4A8E8F6A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0656CB-3A65-45C0-9C11-8B4A8E8F6A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0656CB-3A65-45C0-9C11-8B4A8E8F6A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0656CB-3A65-45C0-9C11-8B4A8E8F6A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BCFCF2-E756-4BC7-9752-DE63835026B6}
+	EndGlobalSection
+EndGlobal
